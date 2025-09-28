@@ -30,7 +30,7 @@ I particularly enjoyed designing the **CNN model** and experimenting with differ
 ---
 
 ## 🛠️ Tech Stack  
-- **Programming Language:** Python  
+- **Programming Language:** Python(version python 3.10)
 - **Libraries & Frameworks:** TensorFlow/Keras, NumPy, Pandas, Matplotlib  
 - **Dataset:** Brain MRI Images (Tumor / Non-Tumor)  
 
